@@ -1,0 +1,6 @@
+{
+  "name": "EcoPulse - Ambient Fire TV Energy & Carbon Optimizer",
+  "description": "Sustainable AI smart-home energy command center for Amazon Fire TV & Alexa+, optimizing appliance load scheduling against real-time electric grid carbon intensity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
